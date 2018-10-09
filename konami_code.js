@@ -1,6 +1,6 @@
 const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 
 function init(e) {
-  const window.alert = parseInt( e.which);
+  const triggerKeyDown = parseInt( e.which);
  
 }
