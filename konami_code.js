@@ -13,3 +13,4 @@ else { index = 0;
 }
 
 })}
+init();
